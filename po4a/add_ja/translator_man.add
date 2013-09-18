@@ -1,0 +1,9 @@
+PO4A-HEADER:mode=after;position=^\.SH 名前;beginboundary=FakePo4aBoundary
+.SH 翻訳
+このマニュアルは 倉澤 望 <nabetaro@debian.or.jp> が翻訳しました。
+
+翻訳に誤りがある場合は、翻訳者か
+.nh
+<\fIdebian-doc@lists.debian.or.jp\fR>
+.hy
+メーリングリストまでお知らせください。

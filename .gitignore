@@ -16,6 +16,10 @@ po4a/de/*.1
 po4a/de/*.5
 po4a/de/*.dbk
 po4a/de/*.pl
+po4a/ja/*.1
+po4a/ja/*.5
+po4a/ja/*.dbk
+po4a/ja/*.pl
 po4a/translate
 scripts/annotate-output
 scripts/archpath
